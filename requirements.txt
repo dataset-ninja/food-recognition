@@ -1,0 +1,2 @@
+supervisely==6.72.28
+dataset-tools==0.0.10
