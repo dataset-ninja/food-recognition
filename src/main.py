@@ -38,9 +38,6 @@ datasets = api.dataset.get_list(project_id)
 # datasets = None
 
 
-project_info = api.project.get_info_by_id(project_id)
-custom_data = project_info.custom_data
-
 # 2. get download link
 download_sly_url = dtools.prepare_download_link(project_info)
 dtools.update_sly_url_dict(
@@ -192,7 +189,7 @@ def main():
     pass
     build_stats()
     build_visualizations()
-    # build_summary()
+    build_summary()
     build_license()
 
 
