@@ -9,7 +9,7 @@ from tqdm import tqdm
 
 
 dataset_path = "/Users/almaz/Downloads/FoodRecognition"
-download_bbox = True
+download_bbox = False
 
 batch_size = 30
 images_folder_name = "images"
