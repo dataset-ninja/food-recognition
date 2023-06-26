@@ -44,11 +44,6 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     forces = args.forces
-    forces = {
-        "force_stats": [
-            "ClassesPreview",
-        ],
-    }
 
     sly.logger.info(f"Script is starting with forces: {forces}")
 
