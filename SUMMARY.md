@@ -4,6 +4,6 @@ The dataset consists of 43962 images with 173329 labeled objects belonging to 99
 
 Images in the Food Recognition 2022 dataset has pixel-level semantic segmentation annotations. Due to the nature of the semantic segmentation task, it can be automatically transformed into object detection (bounding boxes for every object) task. There are 3001 (7% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *validation* (1000 images), *training* (39962 images), and *test* (3000 images). The dataset was released in 2022.
 
-Here is a visualized example for 25 out of 996 classes
+Here is a visualized example for 25 randomly selected sample classes:
 
 [Dataset classes](https://github.com/dataset-ninja/food-recognition/raw/main/visualizations/classes_preview.webm)
