@@ -10,8 +10,8 @@ IS_DETECTION_TASK: bool = True  # ? Set True if you want to visualize only bbox 
 
 ###############################################################
 ####### * Set up visualization params for Poster class ########
-POSTER_IS_DETECTION_TASK: bool = IS_DETECTION_TASK
-POSTER_TITLE: str = None
+POSTER_IS_DETECTION_TASK: bool = False
+POSTER_TITLE: str = "Food Recognition"
 ###############################################################
 
 
