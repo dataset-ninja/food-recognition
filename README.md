@@ -1,2 +1,3 @@
-# food-recognition
-Food Recognition 2022: Dataset
+# Food Recognition 2022
+
+Food Recognition 2022 is a dataset for semantic segmentation tasks.
