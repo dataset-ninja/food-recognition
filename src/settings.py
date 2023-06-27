@@ -13,7 +13,7 @@ PROJECT_NAME_FULL = "Food Recognition 2022"
 ##################################
 LICENSE: License = License.CC0_1_0()
 INDUSTRIES: List[Industry] = [Industry.Food()]
-CV_TASKS: List[CVTask] = [CVTask.SemanticSegmentation(), CVTask.InstanceSegmentation()]
+CV_TASKS: List[CVTask] = [CVTask.SemanticSegmentation()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.SemanticSegmentation()]
 
 RELEASE_YEAR: int = 2022
