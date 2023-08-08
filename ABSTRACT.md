@@ -1,0 +1,11 @@
+The authors of the **Food Recognition 2022** dataset emphasize the significance of image-based food recognition, which holds utility across various applications. Particularly, this recognition capability offers a streamlined method for individuals to monitor their dietary intake by capturing images of consumed food. Such tracking has both personal and medical implications, as it assists in studies focusing on participants' food intake, a task that has previously relied on imprecise food frequency questionnaires.
+
+The advancement of deep learning has significantly propelled image-based food recognition in recent years. However, the complex nature of food recognition persists due to numerous challenges. This benchmark, now in its third consecutive year on [AIcrowd](https://www.aicrowd.com/), continues to build upon the achievements of the previous Food Recognition Challenges held in 2019, 2020, and 2021.
+
+The primary objective of this benchmark is to train models capable of examining images of food items and identifying the individual components within them. To facilitate this, a novel dataset of food images has been curated using the MyFoodRepo app. This app involves Swiss volunteers who contribute images of their daily food consumption as part of the digital cohort named Food & You.
+
+This evolving dataset has been meticulously annotated, or its automatic annotations have been validated, with respect to segmentation, classification (mapping individual food items to a Swiss Food ontology), and estimations of weight/volume. As the dataset continues to expand, additional data will be periodically released.
+
+Locating annotated food images poses challenges, as most existing databases possess limited annotations. Notably, the majority of food images available online are visually appealing but often diverge from real-world representations. Algorithms require real-world images, and proper annotations are generally lacking. Ideally, food images should be accompanied by accurate segmentation, classification, and volume/weight estimates.
+
+Note, that this is a *v2.0* version.
