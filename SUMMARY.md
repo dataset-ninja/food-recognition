@@ -1,4 +1,4 @@
-**Food Recognition 2022** is a dataset for a semantic segmentation task. Possible applications of the dataset could be in the food and medical industries. 
+**Food Recognition 2022 v2.0** is a dataset for a semantic segmentation task. Possible applications of the dataset could be in the food and medical industries. 
 
 The dataset consists of 43962 images with 95009 labeled objects belonging to 498 different classes including *water*, *salad-leaf-salad-green*, *bread-white*, and other: *tomato-raw*, *butter*, *carrot-raw*, *bread-wholemeal*, *coffee-with-caffeine*, *rice*, *egg*, *apple*, *mixed-vegetables*, *jam*, *cucumber*, *wine-red*, *cheese*, *banana*, *potatoes-steamed*, *bell-pepper-red-raw*, *espresso-with-caffeine*, *hard-cheese*, *bread-whole-wheat*, *tea*, *mixed-salad-chopped-without-sauce*, *avocado*, *white-coffee-with-caffeine*, *tomato-sauce*, *wine-white*, and 470 more.
 
