@@ -8,4 +8,3 @@ This evolving dataset has been meticulously annotated, or its automatic annotati
 
 Locating annotated food images poses challenges, as most existing databases possess limited annotations. Notably, the majority of food images available online are visually appealing but often diverge from real-world representations. Algorithms require real-world images, and proper annotations are generally lacking. Ideally, food images should be accompanied by accurate segmentation, classification, and volume/weight estimates.
 
-Note, that this is a *v2.0* version.
