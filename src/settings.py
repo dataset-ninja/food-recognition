@@ -52,7 +52,8 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = None
-AUTHORS: Optional[List[str]] = ["AIcrowd"]
+AUTHORS: Optional[List[str]] = None
+AUTHORS_CONTACTS: Optional[List[str]] = ["mohanty@aicrowd.com", "shivam@aicrowd.com"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "AIcrowd, Switzerland"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.aicrowd.com/"
@@ -100,6 +101,7 @@ def get_settings():
     settings["paper"] = PAPER
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
