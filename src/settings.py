@@ -14,7 +14,7 @@ from dataset_tools.templates import (
 # * Before uploading to instance #
 ##################################
 PROJECT_NAME = "Food Recognition 2022"
-PROJECT_NAME_FULL = "Food Recognition 2022"
+PROJECT_NAME_FULL = "Food Recognition 2022 v2.0"
 HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
