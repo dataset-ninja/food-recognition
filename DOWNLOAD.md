@@ -1,6 +1,6 @@
 Dataset **Food Recognition 2022** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/s/W/mv/Nsr7mPstEFGMeQlX02ivLm5v85VVxzD3jXFVh2MNDXYvgHXjlONZecWrQViRQtNWsEXh5iwWDTZRh5RN3K7pnQu5lPvDmxBn6np0UEmHG6WO7SHuOnbVDzHn1J26.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/w/N/fw/tNoPTiEUnD3NMug1oKmMvGAk5MtUkE4Gfn2HT1mxTVirTauBxbeRTaDILAw0wlk3NUMuRyCUJKcNQ7NVwn8fPaIL5vrznPv6fuAcKJp31q9I5oJtgy5c3zMLB8eL.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
